@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.main{
+	font-size:20px;
+	color:white;
+	max-width:200px;
+	background-color:purple;
+	border-left:5px solid green;
+	padding:10px;
+	text-decoration:underline;
+}
